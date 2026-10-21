@@ -1,4 +1,4 @@
-# Lab 4 - Microservice Product : Intégration Spring Framework & Hibernate avec Pattern DAO Générique
+# Lab 5 - Microservice Product : Intégration Spring Framework & Hibernate avec Pattern DAO Générique
 
 Ce projet illustre la conception et l'implémentation de la couche d'accès aux données et de la couche service d'un microservice de gestion de produits (**`microservice-product`**). Il combine la puissance de **Spring Framework (Context & ORM)** et d'**Hibernate ORM**, en appliquant les bonnes pratiques de conception logicielle telles que le **Pattern DAO Générique `<T>`** et la **gestion transactionnelle déclarative (`@Transactional`)**.
 
